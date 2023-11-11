@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Example content
-id: content
+title: content
 ---
 
 
