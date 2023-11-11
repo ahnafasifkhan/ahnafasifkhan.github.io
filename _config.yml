@@ -7,9 +7,9 @@ permalink:        pretty
 
 # Setup
 title:            Ahnaf
-tagline:          ''
+tagline:          'Portfolio'
 description:      ''
-url:              http://github.com/ahnasfasifkhan
+url:              http://ahnafasifkhan.github.io
 baseurl:          /
 
 author:
@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
-  repo:           http://github.com/ahnasfasifkhan
+  repo:           http://github.com/ahnafasifkhan
