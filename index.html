@@ -5,9 +5,9 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div id="{{ post.id }}" class="post">
+  <div id="{{ post.tag }}" class="post">
     <h1 class="post-title">
-      <a href="{{ post.url }}">
+      <a href="{{ site.url + '/#' + post.tag }}">
         {{ post.title }}
       </a>
     </h1>
