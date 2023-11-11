@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Ahnaf
+tagline:          ''
+description:      ''
+url:              http://github.com/ahnasfasifkhan
+baseurl:          /
+
+author:
+  name:           'Ahnaf Asif Khan'
+  url:            http://github.com/ahnasfasifkhan
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           http://github.com/ahnasfasifkhan
