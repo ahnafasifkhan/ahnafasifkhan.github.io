@@ -1,6 +1,8 @@
 ---
 layout: post
-title: content
+title: Example content
+id: content
+url: http://ahnafasifkhan.github.io/#content
 ---
 
 
