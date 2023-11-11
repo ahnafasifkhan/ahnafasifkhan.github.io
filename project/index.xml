@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trustworthy Social Media on Anqi (Angie) Liu</title>
+    <link>https://anqiliu-ai.github.io/project/</link>
+    <description>Recent content in Trustworthy Social Media on Anqi (Angie) Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022</copyright>
+    
+	<atom:link href="https://anqiliu-ai.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distributionally Robust Learning under Covariate Shift</title>
+      <link>https://anqiliu-ai.github.io/project/drl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anqiliu-ai.github.io/project/drl/</guid>
+      <description>This project covers a series of my work, ranging from fundamentals of distributionally robust learning under covariate shift, to its integration to real-world safe exploration and domain adaption tasks.
+Distributionally robust learning involves a minimax game between a predictor and an adversary, who is usually subject to constraints from data. Instead of focusing on the robustness against adversarial perturbations on the covariate variables, as in many recent literatures, I focus on using conditional output distributions as adversaries.</description>
+    </item>
+    
+    <item>
+      <title>Trustworthy Social Media</title>
+      <link>https://anqiliu-ai.github.io/project/social/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anqiliu-ai.github.io/project/social/</guid>
+      <description>This project is a collaboration between machine learning researchers and social scientists. It is a joint effort by a group of undergraduates, graduate students, postdocs, and professors. Meet our team members here! Check our medium posts for further reading here!
+We aim to use AI techniques for building a more trustworthy social media. We work on online trolling detection, public discussion monitoring, social network analysis, and so on. Our research asks: what a healthier public communication environment would be like in this era?</description>
+    </item>
+    
+  </channel>
+</rss>
